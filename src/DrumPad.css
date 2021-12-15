@@ -1,0 +1,13 @@
+.drum-pad {
+    width: 75px;
+    height: 75px;
+    margin: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.drum-pad h2 {
+    font-size: 36px;
+    margin: auto;
+    color: black;
+}
